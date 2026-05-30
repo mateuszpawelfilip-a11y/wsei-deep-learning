@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML artifacts & datasets
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.ckpt
+*.pkl
+*.npz
+*.npy
+data/
+
+# Experiment tracking
+wandb/
+mlruns/
+runs/
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
