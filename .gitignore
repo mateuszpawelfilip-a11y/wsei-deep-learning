@@ -34,6 +34,9 @@ runs/
 logs/
 *.log
 
+# Lab 04 generated artifacts (zip lokalnie przed oddaniem)
+outputs/
+
 # OS
 .DS_Store
 Thumbs.db
