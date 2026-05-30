@@ -34,8 +34,10 @@ runs/
 logs/
 *.log
 
-# Lab 04 generated artifacts (zip lokalnie przed oddaniem)
+# Lab 03/04 generated artifacts
 outputs/
+gan_samples_epoch_*.png
+gan_cifar10_out/
 
 # OS
 .DS_Store
